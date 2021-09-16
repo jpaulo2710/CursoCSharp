@@ -1,0 +1,51 @@
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+E:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.exe
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.deps.json
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.json
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.runtimeconfig.dev.json
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.dll
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\ref\CursoCSharp.dll
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\CursoCSharp.pdb
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.AssemblyReference.cache
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfoInputs.cache
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.AssemblyInfo.cs
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CoreCompileInputs.cache
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.dll
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\Encapsulamento.dll
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\bin\Debug\net5.0\Encapsulamento.pdb
+D:\Curso-C-Sharp\Projeto\CursoCSharp\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CopyComplete
